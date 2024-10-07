@@ -1,13 +1,22 @@
-# NextJS - The Complete Guide Course Resources
 
-This repository contains course resources (code snapshots, attachments, slides) for my ["NextJS - The Complete Guide" course](https://acad.link/nextjs).
+# The Complete 2020 Web Development Bootcamp
 
-## How To Use
+Whats I will learn:
 
-- [/attachments](/attachments/) contains lecture-specific attachments (which are directly attached to course lectures)
-- [/code](/code/) contains multiple code snapshots for each course section - you can use those to compare your code to mine (to find + fix errors)
-- [/other](/other/) contains other resources like course slides
-
-I'm currently updating the course. This repository contains the resources for the new content (e.g., for the new "NextJS Essentials" section which uses NextJS' "App Router").
-
-You find the resources for the "old course" (which covers the "Pages Router") [here](https://github.com/mschwarzmueller/nextjs-course-code).
+	- Be able to build ANY website you want.
+	
+	- Craft a portfolio of websites to apply for junior developer jobs.
+	
+	- Build fully-fledged websites and web apps for your startup or business.
+	
+	- Work as a freelance web developer.
+	
+	- Master backend development with Node
+	
+	- Master frontend development with React
+	
+	- Learn the latest frameworks and technologies, including Javascript ES6, Bootstrap 4, MongoDB.
+	
+	- Learn professional developer best practices.
+	
+link: https://www.udemy.com/course/the-complete-web-development-bootcamp/
